@@ -1,4 +1,4 @@
-/* 
+
  .drk:after {
     content: "";
     display: block;
@@ -15,8 +15,8 @@
   .carousel-caption {
     z-index: 2;
   
-  } 
-  @media only screen and (max-width: 768px) {
+  }
+  @media only screen and (max-width: 991px) {
     .banner-image {
          width: 100%;
          height: 60vh;
@@ -26,12 +26,12 @@
     .carousel-caption {
          width: 100%;
          position: absolute;
-         top: 30%;
-         left: 50%;
+         top: 50%;
+         left: 0;
          transform: translate(-50%, -50%);
 
          
-    }
-} */
+    } 
+} 
 
 

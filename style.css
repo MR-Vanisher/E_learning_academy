@@ -1,5 +1,5 @@
 
-.drk:after {
+ .drk:after {
     content: "";
     display: block;
     position: absolute;
@@ -14,10 +14,8 @@
   
   .carousel-caption {
     z-index: 2;
-      /* top: 30%;
-      bottom: auto; */
-
-  }
+  
+  } 
 
 
 
